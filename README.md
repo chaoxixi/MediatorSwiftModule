@@ -1,0 +1,2 @@
+# MediatorSwiftModule
+测试
